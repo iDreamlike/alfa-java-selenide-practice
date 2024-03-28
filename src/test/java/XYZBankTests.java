@@ -1,4 +1,4 @@
-import ru.alfaCampus.pages.StartPage;
+import ru.alfaCampus.pages.xyzBankPages.StartPage;
 import ru.alfaCampus.utils.BaseTest;
 import ru.alfaCampus.utils.UserNames;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package ru.alfaCampus.pages;
+package ru.alfaCampus.pages.xyzBankPages;
 
 import com.codeborne.selenide.Selenide;
 import ru.alfaCampus.utils.UserNames;

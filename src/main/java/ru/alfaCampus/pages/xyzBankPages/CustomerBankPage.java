@@ -1,4 +1,4 @@
-package ru.alfaCampus.pages;
+package ru.alfaCampus.pages.xyzBankPages;
 
 import static com.codeborne.selenide.Condition.text;
 import static com.codeborne.selenide.Selenide.$x;
